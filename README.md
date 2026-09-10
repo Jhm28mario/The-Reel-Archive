@@ -85,17 +85,27 @@ Small Updates focus on **bug fixes, performance improvements, visual fixes, and 
 
 Have an idea for The Reel Archive?
 
-Future feature requests can be submitted through the project's feature-request poll.
+I'm planning future **Big Updates** and want to hear what you'd like to see added. You can suggest:
 
-You can suggest:
+* 🎮 New games
+* 🎞️ New archive features
+* 📊 New statistics
+* 🗂️ Organization tools
+* 🏆 New awards
+* 💾 Backup and data features
+* 🖥️ Interface improvements
+* 💡 Completely new ideas
 
-* New games
-* New archive tools
-* New statistics
-* New film formats
-* Organization features
-* Improvements
-* Anything else you'd like to see
+### 📝 Submit Your Ideas
+
+Fill out the **The Reel Archive — Feature Request Poll**:
+
+[**Submit a Feature Request**](https://docs.google.com/forms/d/e/1FAIpQLSfYymJy8XdBXTei3llxRYa0uXr9Tf34aBB-qM3xWSCcQmsZEw/viewform?usp=dialog)
+
+Your suggestions will help shape future updates to The Reel Archive!
+
+**Big Updates = New Features**
+**Small Updates = Bug Fixes & Improvements**
 
 ## 🗄️ Made for Film Collectors
 
