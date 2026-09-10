@@ -105,6 +105,7 @@ Fill out the **The Reel Archive — Feature Request Poll**:
 Your suggestions will help shape future updates to The Reel Archive!
 
 **Big Updates = New Features**
+
 **Small Updates = Bug Fixes & Improvements**
 
 ## 🗄️ Made for Film Collectors
